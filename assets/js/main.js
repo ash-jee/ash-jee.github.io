@@ -9,6 +9,8 @@
 	var	$window = $(window),
 		$body = $('body'),
 		$wrapper = $('#wrapper');
+		$header = $('#header'),
+		$banner = $('#banner');
 
 	// Breakpoints.
 		breakpoints({
