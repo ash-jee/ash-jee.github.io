@@ -10,10 +10,10 @@
 
 	var	$window = $(window),
 		$body = $('body'),
-		$header = $(‘#header'),
-		$banner = $(‘#banner’),
-		$wrapper = $(‘#wrapper’),
-		$nav = $(‘#nav’);
+		$header = $('#header'),
+		$banner = $('#banner'),
+		$wrapper = $('#wrapper'),
+		$nav = $('#nav');
 
 	// Breakpoints.
 		breakpoints({
