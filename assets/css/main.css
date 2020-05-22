@@ -3632,6 +3632,12 @@ input, select, textarea {
 			object-position: left;
 		}
 
+		.banner.style1.image-position-center .image img {
+			-moz-object-position: center;
+			-webkit-object-position: center;
+			-ms-object-position: center;
+			object-position: center;
+		}
 		.banner.style1.image-position-right .image img {
 			-moz-object-position: right;
 			-webkit-object-position: right;
