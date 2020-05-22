@@ -175,11 +175,20 @@
 	@import 'components/table';
 	@import 'components/banner';
 	@import 'components/spotlight';
+	@import 'components/spotlighs';
 	@import 'components/gallery';
 	@import 'components/wrapper';
 	@import 'components/items';
 	@import 'components/index';
+	@import 'components/tiles';
+	@import 'components/pagination';
+
 
 // Layout.
 
+	@import 'layout/header';
+	@import 'layout/banner';
+	@import 'layout/nav';
+	@import 'layout/main';
 	@import 'layout/wrapper';
+	@import 'layout/menu';
