@@ -3609,6 +3609,25 @@ input, select, textarea {
 
 			}
 
+
+		.banner.style1.orient-center {
+			-moz-flex-direction: row;
+			-webkit-flex-direction: row;
+			-ms-flex-direction: row;
+			flex-direction: row;
+		}
+
+			@media screen and (orientation: portrait) {
+
+				.banner.style1.orient-center {
+					-moz-flex-direction: column;
+					-webkit-flex-direction: column;
+					-ms-flex-direction: column;
+					flex-direction: column;
+				}
+
+			}
+
 		.banner.style1.content-align-center {
 			text-align: center;
 		}
