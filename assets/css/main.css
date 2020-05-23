@@ -112,7 +112,12 @@ input, select, textarea {
 			-ms-transition: none !important;
 			transition: none !important;
 		}
-/* Nav */
+/* Header */
+header{
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
 
 /* Nav */
 
@@ -125,7 +130,7 @@ nav{
 nav a{
   font-family: "Source Sans Pro", Helvetica, sans-serif;
   font-weight:900;
-  text-transform:uppercase;
+  text-transform:none;
   text-decoration:none;
   color:#16151b;
   margin:0 15px;
