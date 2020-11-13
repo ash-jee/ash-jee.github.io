@@ -6,16 +6,10 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-
 <url>
   <loc>https://ash-jee.github.io/</loc>
   <lastmod>2020-11-13T05:53:39+00:00</lastmod>
   <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://ash-jee.github.io/index.html</loc>
-  <lastmod>2020-11-13T05:53:39+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ash-jee.github.io/about.html</loc>
@@ -41,7 +35,6 @@
   <loc>https://ash-jee.github.io/cv_public.pdf</loc>
   <lastmod>2020-11-13T05:53:39+00:00</lastmod>
   <priority>0.64</priority>
-</url>
-
+</url
 
 </urlset>
