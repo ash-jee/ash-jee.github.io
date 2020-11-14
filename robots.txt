@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /images/
+Disallow: /assets/
+Disallow: googlea12f2a85276cc229.html
+Disallow: ORIG-html5up-story
+Disallow: fancybox-master
+Disallow: cv_public.pdf
+Disallow: elements.html
+Disallow: generic.html
+Disallow: sandbox.html
+
+Sitemap: https://ash-jee.github.io/sitemap.xml
